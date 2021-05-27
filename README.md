@@ -14,7 +14,7 @@ Generating Short Description of Videos:
 Abstract:
 =========
 
-Generating short description of videos’ is an academic project in which various extractive text summarization methodologies are used to generate a short description of videos. In this project, Sentence embedding and word embedding techniques such as TF-IDF, Glove/Fasttext, Skip thought vectors, and Universal sentence encoder is used. Along with these embedding techniques, K-means clustering, Smooth inverse frequency, and Page ranking are used to generate an extractive summary of the videos. Additionally, ROGUE metrics are used to evaluate the performance of the generated summaries with the golden summaries. Based on the results observed, Universal sentence encoder outperformed other summarization techniques.
+Generating short description of videos’ is an academic project in which various extractive text summarization methodologies are used to generate a short description of videos. In this project, Sentence embedding and word embedding techniques such as TF-IDF, Glove/Fasttext, Skip thought vectors, and Universal sentence encoder is used. Along with these embedding techniques, K-means clustering, Smooth inverse frequency, and Page ranking are used to generate an extractive summary of the videos. Additionally, ROGUE metrics are used to evaluate the performance of the generated summaries with the golden summaries. Based on the results observed, Universal sentence encoder outperformed other summarization techniques.
 
 
 Interactive meta-cluster detection in Twitter data:
